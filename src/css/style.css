@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card{
+    @apply w-48 h-64 shadow-md rounded-lg flex-none transform transition-all hover:-translate-y-4 hover:shadow-xl
+}
+.card-fond-green{
+    @apply w-full h-2/5 bg-secondary rounded-b-lg
+}
+.card-fond-white{
+    @apply w-full h-2/5 bg-white rounded-b-lg
+}
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+.CardTitle{
+    @apply text-3xl px-8 pt-8 pb-1 font-semibold text-white
+}
