@@ -9,6 +9,7 @@ El diseño fue hecho Mobile First (Diseñado primero para el celular y adaptado 
 
  ![Screenshot 2023-08-14 212623](https://github.com/jesusvittee/platzi-travel/assets/127768350/fde8b2ab-173c-44f3-af1b-73e5ca589669)
  ![Screenshot 2023-08-14 212701](https://github.com/jesusvittee/platzi-travel/assets/127768350/01d74c86-4407-46dc-be63-3ceebcf7974a)
-![Screenshot 2023-08-14 212623](https://github.com/jesusvittee/platzi-travel/assets/127768350/812d46a2-8f70-44b4-8e98-717fdab340fc)
+![Screenshot 2023-08-14 212446](https://github.com/jesusvittee/platzi-travel/assets/127768350/86e6f268-24ea-4991-85ad-ddaacd258099)
+
 ![Screenshot 2023-08-14 212415](https://github.com/jesusvittee/platzi-travel/assets/127768350/324042e1-677d-45ba-91f0-7db2c0d7d424)
 
