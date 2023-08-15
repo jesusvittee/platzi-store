@@ -5,7 +5,7 @@ Platzi Travel fue creado a partir de aplicar lo aprendido en el curso de Tailwin
 
 En terminos simples Tailwind es framework que facilita el uso de CSS un lenguaje de programción.
 
-El diseño fue hecho Mobile First (Diseñado primero para el celular y adaptado para computadora).
+El diseño fue hecho Mobile First (Diseñado primero para el celular y adaptado para computadora) además incluí el modo obscuro que me parecio increible.
 
  ![Screenshot 2023-08-14 212623](https://github.com/jesusvittee/platzi-travel/assets/127768350/fde8b2ab-173c-44f3-af1b-73e5ca589669)
  ![Screenshot 2023-08-14 212701](https://github.com/jesusvittee/platzi-travel/assets/127768350/01d74c86-4407-46dc-be63-3ceebcf7974a)
