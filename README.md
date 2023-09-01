@@ -13,3 +13,4 @@ El diseño fue hecho Mobile First (Diseñado primero para el celular y adaptado 
 
 ![Screenshot 2023-08-14 212415](https://github.com/jesusvittee/platzi-travel/assets/127768350/324042e1-677d-45ba-91f0-7db2c0d7d424)
 
+#### Creditos : Jesus Nicolas Vite @jesusvittee
