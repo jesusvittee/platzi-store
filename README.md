@@ -1,4 +1,4 @@
-# platzi-travel
+# Platzi travel
 Platzi travel una pagina web sobre destinos turisticos en estados unidos
 
 Platzi Travel fue creado a partir de aplicar lo aprendido en el curso de Tailwind que tomé de Platzi en el cual aprendí lo siguiente;
